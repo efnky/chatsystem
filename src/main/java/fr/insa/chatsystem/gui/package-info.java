@@ -1,0 +1,1 @@
+package fr.insa.chatsystem.gui;

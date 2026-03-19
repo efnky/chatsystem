@@ -1,0 +1,54 @@
+
+# =========================
+# IntelliJ IDEA
+# =========================
+
+# Dossier de configuration spécifique à IntelliJ
+.idea/
+
+# Fichiers de projet générés automatiquement
+*.iml
+*.ipr
+*.iws
+
+# =========================
+# Build / Output
+# =========================
+out/
+build/
+target/
+dist/
+
+# =========================
+# Logs et caches
+# =========================
+*.log
+*.tmp
+*.cache
+*.swp
+
+# =========================
+# Systèmes d'exploitation
+# =========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# =========================
+# Autres IDE ou outils
+# =========================
+.vscode/
+.idea_modules/
+.gradle/
+.mvn/
+.env

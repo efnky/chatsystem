@@ -1,0 +1,9 @@
+group: B1  # replace with your own group (A1, A2, B1, B2, C1, SC1)
+names:  # Replace with your own names (lastname first)
+  - Morra-Fischer Mathis
+  - Marguier Yohann
+  - Inkaya Efe
+emails:  # Replace with your own INSA email address
+  - morra-fische@insa-toulouse.fr
+  - inkaya@insa-toulouse.fr
+  - marguier@insa-toulouse.fr
